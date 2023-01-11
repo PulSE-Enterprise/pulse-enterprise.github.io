@@ -13,7 +13,11 @@ body {
 	float: left;
 }
 
-#header h2 {
+#header:hover {
+	cursor: pointer;
+}
+
+#header h3 {
 	color: limegreen;
 	text-align: center;
 }
